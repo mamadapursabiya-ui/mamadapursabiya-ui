@@ -70,7 +70,8 @@ and SQL
 ```{=html}
 </p>
 ```
-
+📈 Contribution Graph
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=mamadapursabiya-ui&theme=tokyo-night)
 🏆 GitHub Trophies
 ```{=html}
 <p align="center">
@@ -79,7 +80,13 @@ and SQL
 ```{=html}
 </p>
 ```
-
+👀 Profile Views
+```{=html}
+<p align="center">
+```
+`<img src="https://komarev.com/ghpvc/?username=mamadapursabiya-ui&style=for-the-badge"/>`{=html}
+```{=html}
+</p>
 ```
 🐍 Contribution Snake
 After creating the workflow:
